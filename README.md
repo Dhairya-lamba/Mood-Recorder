@@ -14,7 +14,7 @@
    - [Admin Page](#admin-page)
 
 ## About The Project
-* Face recognition to capture reactions while viewing advertisements is the project built during Microsoft Engage 2022 program.
+* Face recognition to capture reactions while viewing advertisements.
 * This project records people's expressions, gender and age and store that data while they are seeing the Advertisement.
 * The reactions can be used for improvements in advertisements as it gives customized reviews.
 
